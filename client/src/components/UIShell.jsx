@@ -23,10 +23,10 @@ const Fade20 = () => (
 );
 
 class UIShell extends Component {
-  header = "CoC Lab UI";
+  header = "Big Blue Widgets";
   menuTitle = "Inventory Management";
   menuItems = [
-    "Stock Items",
+    "Stock Items"
   ];
 
   constructor(props) {
